@@ -1,1 +1,22 @@
+## week 1| Computer Systems and Applications
+## Task 1 Knowledge Test 
+The following is a screenshot of my knowledge test score:
+![knowledge test score](./image/week01-task5-10.png)
 
+
+## Task 5 Summary of My Knowledge
+
+1. Computer Networking: This is the process of connecting two or more computing devices, such as desktop computers, mobile devices, routers, or applications, 
+to enable the transmission and exchange of information and resources. Networked devices rely on communication protocols to share information over physical or wireless connections.
+
+2. The Internet: The Internet is a global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.
+It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope,
+linked by a broad array of electronic, wireless, and optical networking technologies.
+
+3. Cyber Security and Cloud Computing: 
+Cyber Security: This refers to the practice of protecting systems, networks, and programs from digital attacks. 
+These cyberattacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes.
+
+Cloud Computing: This is the delivery of on-demand computing services, such as servers, storage, databases, and software, over the internet. 
+Cloud security involves a broad set of strategies and technologies designed to protect data, applications, 
+and infrastructure hosted in the cloud from unauthorized access, data breaches, and evolving cyber threats.
